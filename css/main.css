@@ -1,0 +1,7 @@
+body {
+    background-color: lightcyan;
+}
+
+li.done {
+    text-decoration: line-through;
+}
